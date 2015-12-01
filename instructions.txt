@@ -5,4 +5,6 @@ When you first clone a git repository, git will automatically create a remote fo
 
 This is instruction txt
 
-Add another instruction
+Add an instruction
+
+Add the other instruction
