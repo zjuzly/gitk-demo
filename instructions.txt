@@ -1,3 +1,6 @@
 When you first create a git repository, it starts with a single branch named ¡°master¡±. There is nothing special about this branch, other than it is the default. You are free to create a new one, and delete master (although, I don¡¯t see any reason to go against the default convention).
 
 When you first clone a git repository, git will automatically create a remote for you named ¡°origin¡±. A remote is just a name used to manage references (URLs) to other repositories. There is nothing special about the ¡°origin¡± remote, other than it is created for you. You are free to create a new one and delete origin. In fact, if you are working with multiple remotes, I recommend you delete the origin remote and create a new one for the same repository, but using a more descriptive name. For example, when I work with the FubuMVC source code, in my local repository I have a remote named ¡°darth¡± which refers to the main repository owned by DarthFubuMVC, and a remote named ¡°josh¡±, which refers to my fork. If I had kept the name ¡°origin¡±, I would always have to remember which one I cloned from.
+
+
+This is instruction txt
